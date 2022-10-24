@@ -1,0 +1,8 @@
+name: CastleWars
+version: '${project.version}'
+main: com.github.maiotachannel.castlewars.CastleWars
+api-version: 1.16
+prefix: CastleWars
+authors: [ MAIOTA ]
+description: 攻城戦のシステムプラグイン
+website: https://maiotanet.work
